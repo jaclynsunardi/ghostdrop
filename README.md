@@ -1,10 +1,20 @@
 # GhostDrop
 
-GhostDrop is a minimalist file sharing platform for local and online transfers — no accounts, no clutter, just fast and secure
+GhostDrop is a next-generation file transfer platform built for speed, simplicity, and privacy.
 
-# Demo
+Whether you are on the other side of the same room or at the different side of the planet, with GhostDrop you can share files instantly – no accounts, no storage mess, no hassle.
+
+## Why GhostDrop?
+- **Instant Transfers** — share files in seconds without accoutns or settings.
+- **Local and Internet Modes** — transfer content directly over Wi-Fi or securely across the web.
+- **Temporary by Default** — there is no permanent cloud storage, unless you want it.
+- **Minimalist Design** — fast, clean, and distraction-free experience.
+- **Privacy First** — your files, your control — no data mining or unwanted persistence.
+
+## Demo
 
 ## Screenshots
+
 
 ## Features
 - Drag-and-drop file sharing
