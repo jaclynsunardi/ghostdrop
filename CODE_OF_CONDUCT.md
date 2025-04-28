@@ -26,6 +26,6 @@ Project maintainers have the right to remove, edit, or reject comments, commits,
 
 ## Enforcement
 
-Instances of abusive behavior can be reported by contacting the maintainer at jaclynsunardi@github.io (or preferred contact email).
+Instances of abusive behavior can be reported by contacting the maintainer at jaclyn.sunardi@gmail.com
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/).
