@@ -1,4 +1,4 @@
-# GhostDrop Wirefranes
+# GhostDrop Wireframes
 
 This document contains the inital wireframe sketches and layout descriptions for the GhostDrop UI.
 
